@@ -57,7 +57,7 @@
                     }
                 }
             } else {
-                header("Location: http://192.168.64.2/BestellfehlerTBGmbH.php");
+                header("Location: http://192.168.64.2/BestellfehlerTBGmbH.html");
             }
         ?></p>
     </body>
